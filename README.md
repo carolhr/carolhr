@@ -1,8 +1,8 @@
 ### Olá! Eu sou Caroline Rocha 🖐️
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rocha.hc)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/carolinerocha)
-[![codepen](https://	https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://instagram.com/carolhr)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/caroline-rocha)
+[![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://instagram.com/carolhr)
 
 
 ![Caroline GitHub stats](https://github-readme-stats.vercel.app/api?username=carolhr&show_icons=true&theme=radical)
